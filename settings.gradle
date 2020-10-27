@@ -1,2 +1,3 @@
 rootProject.name = 'docker-and-docker-compose-basics-homework'
 
+include 'alice', 'bob'
